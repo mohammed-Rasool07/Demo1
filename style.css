@@ -1,0 +1,20 @@
+body{
+    background-color: #EAEAEA;
+    color: #252A34;
+}
+
+h1{
+    background-color:#FF2E63;
+    color: black;
+}
+p{
+    font-size: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 100px;
+    font-family: "Roboto";
+}
+
+img{
+    border-radius: 500px;
+}
